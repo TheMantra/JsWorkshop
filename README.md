@@ -1,2 +1,2 @@
-# JsWorkshop
-This is just a school project
+# JsWorkShop
+#This is just a School Project
